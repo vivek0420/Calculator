@@ -7,8 +7,8 @@ Overview
 The Java Calculator is a desktop application built to handle both basic and advanced arithmetic operations. With an intuitive interface and strong error handling, it serves as a practical tool for quick computations or as a foundational learning project for Java beginners.
 
 Screenshots
-
-
+![calculator screenshot](https://github.com/vivek0420/Calculator/blob/main/Calculator%20(Java)/Screenshot%202025-11-22%20193547.png?raw=true)
+![calculator decimal calculation](https://github.com/vivek0420/Calculator/blob/main/Calculator%20(Java)/Screenshot%202025-11-22%20193743.png?raw=true)
 Features
 🧮 Core Operations
 Addition
@@ -40,3 +40,4 @@ Credits
 
 This project was created by Vivek Raj, inspired by the Brototype YouTube channel’s coding challenge.
 Special thanks to the community for motivating continuous learning and project development.
+
