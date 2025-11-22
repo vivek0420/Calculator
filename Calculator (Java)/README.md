@@ -1,57 +1,42 @@
-# Java Calculator Project
+Java Calculator
 
-![Java Calculator](/src/Caluclator.JPG)
+A lightweight, user-friendly Java-based calculator application inspired by the Brototype 100K Coding Challenge. This project showcases clean design, robust functionality, and a beginner-friendly approach to building utility applications in Java.
 
-Welcome to the Java Calculator project! This project was inspired by the Brototype YouTube channel's "100K CODING CHALLENGE". The goal of this project is to create a simple yet powerful calculator application using Java.
+Overview
 
-## Project Description
+The Java Calculator is a desktop application built to handle both basic and advanced arithmetic operations. With an intuitive interface and strong error handling, it serves as a practical tool for quick computations or as a foundational learning project for Java beginners.
 
-The Java Calculator is designed to perform basic arithmetic calculations, making it a useful tool for anyone in need of quick computations. It provides a user-friendly interface and supports various mathematical operations.
+Screenshots
 
-## Features
 
-- Addition: Perform addition of two or more numbers.
-- Subtraction: Subtract one number from another.
-- Multiplication: Multiply numbers together.
-- Division: Divide one number by another.
-- Square Root: Calculate the square root of a given number.
-- Exponents: Compute a number raised to a power.
+Features
+🧮 Core Operations
+Addition
+Subtraction
+Multiplication
+Division
+Square Root
+Exponential Calculations
 
-## Highlighting Awesome Inputs
+🌟 Enhanced User Experience
+Clean & Simple UI – Easy to navigate and beginner-friendly.
+Robust Error Handling – Clear prompts for invalid inputs ensure smooth use.
+Memory Functions – Store and retrieve values for extended calculations.
+Bonus: Unit Conversion – Additional utility for converting between common units.
 
-The calculator emphasizes the use of "awesome inputs" that make it stand out from typical calculators. Some of these features include:
+Getting Started
 
-1. **Intuitive User Interface:** The user interface is designed to be simple, clean, and easy to navigate. It ensures that users can effortlessly perform calculations.
+Clone the repository:
 
-2. **Error Handling:** The calculator provides clear error messages and gracefully handles any incorrect inputs, ensuring a smooth user experience.
+git clone https://github.com/your-username/java-calculator
 
-3. **Support for Complex Operations:** Besides basic arithmetic, the calculator supports complex operations, such as calculating exponents, which adds to its versatility.
 
-4. **Memory Functions:** It offers memory features, allowing users to store and recall previous results for further calculations.
+Open the project in your preferred Java IDE (IntelliJ IDEA, Eclipse, VS Code with Java extensions).
+Build and run the application.
+Start using the Java Calculator!
+Contributions
+Contributions are always welcome. Feel free to submit improvements, report issues, or propose new features through pull requests.
+Credits
 
-5. **Unit Conversion (Bonus):** The calculator includes an additional feature that enables unit conversion, making it even more useful for a wide range of users.
-
-## Getting Started
-
-To run the Java Calculator project on your local machine, follow these steps:
-
-1. Clone the repository from the [GitHub link](https://github.com/your-username/java-calculator).
-2. Open the project in your favorite Java IDE (Eclipse, IntelliJ, etc.).
-3. Build and run the project.
-4. Start performing your calculations with the Java Calculator!
-
-## Contributions
-
-Contributions to the project are highly appreciated. If you find any bugs, have suggestions for improvements, or want to add new features, feel free to submit a pull request. Together, let's make this calculator project even better!
-
-## Credits
-
-Special thanks to the Brototype YouTube channel for the inspiring coding challenge that led to the creation of this Java Calculator.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
-
----
-
-Happy calculating! If you have any questions, feedback, or encounter any issues with the Java Calculator project, please don't hesitate to reach out. Enjoy coding!
+This project was created by Vivek Raj, inspired by the Brototype YouTube channel’s coding challenge.
+Special thanks to the community for motivating continuous learning and project development.
